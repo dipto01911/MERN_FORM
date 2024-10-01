@@ -1,0 +1,48 @@
+
+.addUser{
+    width: 25%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 10px gray;
+    padding: 40px;
+    margin: 50px auto;
+    background-color: white;
+   
+   
+}
+.adduserform .inputGroup{
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+
+}
+.inputGroup input{
+    padding: 7px;
+}
+#submit{
+    background-color:goldenrod;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0px auto;
+
+}
+
+.addUser h3{
+    margin-top: 20px;
+    background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.addUser a{
+    text-decoration: none;
+     background-color:green;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
